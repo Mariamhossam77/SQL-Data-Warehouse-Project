@@ -106,7 +106,7 @@ data-warehouse-project/
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn](https://www.linkedin.com/in/mariamhossamelden/)
+[LinkedIn](https://www.linkedin.com/in/mariamhossamelden/)
 
 
 ---
@@ -117,5 +117,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
-
+I am a results-driven Data Analyst and BI developer. My expertise lies in bridging the gap between data and decision-making, employing analytical rigor to craft models that drive strategic innovation. I am adept at harnessing the power of data to uncover hidden patterns, guiding organizations toward data-driven solutions that shape the future.
