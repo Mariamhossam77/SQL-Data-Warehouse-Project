@@ -73,4 +73,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-I am a results-driven Data Analyst and BI developer. My expertise lies in bridging the gap between data and decision-making, employing analytical rigor to craft models that drive strategic innovation. I am adept at harnessing the power of data to uncover hidden patterns, guiding organizations toward data-driven solutions that shape the future.
+ I am a results-driven Data Analyst and BI developer. My expertise lies in bridging the gap between data 
+and decision-making. I've developed and optimized more than **50 data models**, reducing reporting times 
+by an average of **30%**. My analytical rigor has uncovered hidden patterns, leading to the successful 
+implementation of at least **10 data-driven solutions** that have directly impacted organizational growth.
